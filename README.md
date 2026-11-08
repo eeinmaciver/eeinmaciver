@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a Northcoders student currently studying Software Development. So far I have covered Python, SQL, JavaScript/TypeScript, TDD and APIs. My GitHub has a collection of sprints as well as projects I am currently working on.
 
 <!--
 **eeinmaciver/eeinmaciver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
